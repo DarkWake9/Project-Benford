@@ -1,0 +1,13 @@
+1. plot RV gen from varois distros in Benford
+
+2. DRAW 2 RVs from single distro, take their product, plot benford
+
+3. Step 2 till n
+
+
+
+take paiwise products like (0, 1)  (2, 3) ; (4, 5), .....
+
+i.e (0, 1, ....n) ; (n + 1, n+2 .... 2n) ; ....
+
+
